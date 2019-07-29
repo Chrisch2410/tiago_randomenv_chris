@@ -1,0 +1,10 @@
+<annotation>
+	<folder>dataset_genannotations</folder>
+	<filename>2019_07_28_19_55_49116.png</filename>
+	<source>my_randomgazebomanager_pkg</source>
+	<size>
+		<depth>3</depth>
+	<width>640</width><height>480</height></size>
+	<segmented>0</segmented>
+	
+<object><name>coffee_cup1</name><pose3d><x_com>0.6456910774610026</x_com><y_com>0.032552718176387205</y_com><z_com>0.7584302964687969</z_com><quat_x>-0.03796447294849444</quat_x><quat_y>0.07052088666133145</quat_y><quat_z>-0.7544422559676341</quat_z><quat_w>0.651461730072235</quat_w></pose3d></object></annotation>
